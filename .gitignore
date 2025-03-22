@@ -16,7 +16,7 @@ build/
 .classpath
 
 # Logs
-logs/
+# logs/
 *.log
 
 # Docker volumes
